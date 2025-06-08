@@ -11,18 +11,16 @@ persistent storage using localStorage
 Fully responsive design for all screen sizes
 
 
-#Tech Stack
+## Tech Stack
 React
-
-
 TailwindCss
 Vite
 
-#Prerequisites
+## Prerequisites
 Node.js and npm installed
 
 
-#Project Structure
+## Project Structure
 src/
 ├── components/   # Reusable components
 ├── App.jsx       # Main app logic
@@ -30,13 +28,13 @@ src/
 └── index.css     # Tailwind directives
 
 
-#local Storage
+## local Storage
 All tasks are saved automatically to the browser’s local storage. When you reload the page, your task list is restored from local storage.
 
-Responsive Design
+## Responsive Design
 The UI is mobile-first and scales beautifully on all device sizes using Tailwind’s utility classes.
 
-#Installation
+## Installation
 For Tailwind CSS installation and setup, please refer to the official Tailwind documentation.
 use  command:
 npm run dev 
