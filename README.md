@@ -1,7 +1,7 @@
 # Task-Manager
 A responsive and minimalistic To-Do List application built using React, Tailwind CSS, and Vite. This app allows users to manage daily tasks efficiently with features like adding, editing, deleting, marking as complete, and storing tasks persistently using the browser's local storage.
 
-#features
+## Features
 Add new task
 Delete existing task
 Edit existing  task
